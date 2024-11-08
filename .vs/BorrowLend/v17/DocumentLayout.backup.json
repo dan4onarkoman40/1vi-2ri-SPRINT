@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My Work\\BorrowLend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8B7A81-8D1B-4574-943E-DB85A2532F0D}|BorrowLend\\BorrowLend.csproj|d:\\my work\\borrowlend\\borrowlend\\views\\item\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E8B7A81-8D1B-4574-943E-DB85A2532F0D}|BorrowLend\\BorrowLend.csproj|solutionrelative:borrowlend\\views\\item\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8B7A81-8D1B-4574-943E-DB85A2532F0D}|BorrowLend\\BorrowLend.csproj|d:\\my work\\borrowlend\\borrowlend\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E8B7A81-8D1B-4574-943E-DB85A2532F0D}|BorrowLend\\BorrowLend.csproj|solutionrelative:borrowlend\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8B7A81-8D1B-4574-943E-DB85A2532F0D}|BorrowLend\\BorrowLend.csproj|d:\\my work\\borrowlend\\borrowlend\\views\\item\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E8B7A81-8D1B-4574-943E-DB85A2532F0D}|BorrowLend\\BorrowLend.csproj|solutionrelative:borrowlend\\views\\item\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8B7A81-8D1B-4574-943E-DB85A2532F0D}|BorrowLend\\BorrowLend.csproj|d:\\my work\\borrowlend\\borrowlend\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7E8B7A81-8D1B-4574-943E-DB85A2532F0D}|BorrowLend\\BorrowLend.csproj|solutionrelative:borrowlend\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8B7A81-8D1B-4574-943E-DB85A2532F0D}|BorrowLend\\BorrowLend.csproj|d:\\my work\\borrowlend\\borrowlend\\views\\item\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E8B7A81-8D1B-4574-943E-DB85A2532F0D}|BorrowLend\\BorrowLend.csproj|solutionrelative:borrowlend\\views\\item\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8B7A81-8D1B-4574-943E-DB85A2532F0D}|BorrowLend\\BorrowLend.csproj|d:\\my work\\borrowlend\\borrowlend\\views\\item\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E8B7A81-8D1B-4574-943E-DB85A2532F0D}|BorrowLend\\BorrowLend.csproj|solutionrelative:borrowlend\\views\\item\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8B7A81-8D1B-4574-943E-DB85A2532F0D}|BorrowLend\\BorrowLend.csproj|d:\\my work\\borrowlend\\borrowlend\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E8B7A81-8D1B-4574-943E-DB85A2532F0D}|BorrowLend\\BorrowLend.csproj|solutionrelative:borrowlend\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8B7A81-8D1B-4574-943E-DB85A2532F0D}|BorrowLend\\BorrowLend.csproj|d:\\my work\\borrowlend\\borrowlend\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8B7A81-8D1B-4574-943E-DB85A2532F0D}|BorrowLend\\BorrowLend.csproj|solutionrelative:borrowlend\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8B7A81-8D1B-4574-943E-DB85A2532F0D}|BorrowLend\\BorrowLend.csproj|d:\\my work\\borrowlend\\borrowlend\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8B7A81-8D1B-4574-943E-DB85A2532F0D}|BorrowLend\\BorrowLend.csproj|solutionrelative:borrowlend\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8B7A81-8D1B-4574-943E-DB85A2532F0D}|BorrowLend\\BorrowLend.csproj|d:\\my work\\borrowlend\\borrowlend\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8B7A81-8D1B-4574-943E-DB85A2532F0D}|BorrowLend\\BorrowLend.csproj|solutionrelative:borrowlend\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8B7A81-8D1B-4574-943E-DB85A2532F0D}|BorrowLend\\BorrowLend.csproj|d:\\my work\\borrowlend\\borrowlend\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8B7A81-8D1B-4574-943E-DB85A2532F0D}|BorrowLend\\BorrowLend.csproj|solutionrelative:borrowlend\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8B7A81-8D1B-4574-943E-DB85A2532F0D}|BorrowLend\\BorrowLend.csproj|d:\\my work\\borrowlend\\borrowlend\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8B7A81-8D1B-4574-943E-DB85A2532F0D}|BorrowLend\\BorrowLend.csproj|solutionrelative:borrowlend\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8B7A81-8D1B-4574-943E-DB85A2532F0D}|BorrowLend\\BorrowLend.csproj|d:\\my work\\borrowlend\\borrowlend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8B7A81-8D1B-4574-943E-DB85A2532F0D}|BorrowLend\\BorrowLend.csproj|solutionrelative:borrowlend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8B7A81-8D1B-4574-943E-DB85A2532F0D}|BorrowLend\\BorrowLend.csproj|d:\\my work\\borrowlend\\borrowlend\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E8B7A81-8D1B-4574-943E-DB85A2532F0D}|BorrowLend\\BorrowLend.csproj|solutionrelative:borrowlend\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8B7A81-8D1B-4574-943E-DB85A2532F0D}|BorrowLend\\BorrowLend.csproj|d:\\my work\\borrowlend\\borrowlend\\migrations\\20241025084030_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8B7A81-8D1B-4574-943E-DB85A2532F0D}|BorrowLend\\BorrowLend.csproj|solutionrelative:borrowlend\\migrations\\20241025084030_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8B7A81-8D1B-4574-943E-DB85A2532F0D}|BorrowLend\\BorrowLend.csproj|d:\\my work\\borrowlend\\borrowlend\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8B7A81-8D1B-4574-943E-DB85A2532F0D}|BorrowLend\\BorrowLend.csproj|solutionrelative:borrowlend\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8B7A81-8D1B-4574-943E-DB85A2532F0D}|BorrowLend\\BorrowLend.csproj|d:\\my work\\borrowlend\\borrowlend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7E8B7A81-8D1B-4574-943E-DB85A2532F0D}|BorrowLend\\BorrowLend.csproj|solutionrelative:borrowlend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\My Work\\BorrowLend\\BorrowLend\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "BorrowLend\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\My Work\\BorrowLend\\BorrowLend\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "BorrowLend\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:49:52.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\My Work\\BorrowLend\\BorrowLend\\Views\\Item\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BorrowLend\\Views\\Item\\Edit.cshtml",
+              "ToolTip": "D:\\My Work\\BorrowLend\\BorrowLend\\Views\\Item\\Edit.cshtml",
+              "RelativeToolTip": "BorrowLend\\Views\\Item\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T09:15:09.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\My Work\\BorrowLend\\BorrowLend\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BorrowLend\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\My Work\\BorrowLend\\BorrowLend\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BorrowLend\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T08:34:28.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\My Work\\BorrowLend\\BorrowLend\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "BorrowLend\\Models\\Item.cs",
+              "ToolTip": "D:\\My Work\\BorrowLend\\BorrowLend\\Models\\Item.cs",
+              "RelativeToolTip": "BorrowLend\\Models\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T08:03:08.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\My Work\\BorrowLend\\BorrowLend\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BorrowLend\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\My Work\\BorrowLend\\BorrowLend\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BorrowLend\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T09:06:54.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\My Work\\BorrowLend\\BorrowLend\\Views\\Item\\Create.cshtml",
+              "RelativeDocumentMoniker": "BorrowLend\\Views\\Item\\Create.cshtml",
+              "ToolTip": "D:\\My Work\\BorrowLend\\BorrowLend\\Views\\Item\\Create.cshtml",
+              "RelativeToolTip": "BorrowLend\\Views\\Item\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T09:14:40.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\My Work\\BorrowLend\\BorrowLend\\Views\\Item\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BorrowLend\\Views\\Item\\Delete.cshtml",
+              "ToolTip": "D:\\My Work\\BorrowLend\\BorrowLend\\Views\\Item\\Delete.cshtml",
+              "RelativeToolTip": "BorrowLend\\Views\\Item\\Delete.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T09:16:02.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\My Work\\BorrowLend\\BorrowLend\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "BorrowLend\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\My Work\\BorrowLend\\BorrowLend\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "BorrowLend\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T08:48:05.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\My Work\\BorrowLend\\BorrowLend\\Views\\Item\\Index.cshtml",
+              "RelativeDocumentMoniker": "BorrowLend\\Views\\Item\\Index.cshtml",
+              "ToolTip": "D:\\My Work\\BorrowLend\\BorrowLend\\Views\\Item\\Index.cshtml",
+              "RelativeToolTip": "BorrowLend\\Views\\Item\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T08:50:39.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\My Work\\BorrowLend\\BorrowLend\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "BorrowLend\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\My Work\\BorrowLend\\BorrowLend\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "BorrowLend\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-08T08:52:37.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\My Work\\BorrowLend\\BorrowLend\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BorrowLend\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\My Work\\BorrowLend\\BorrowLend\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BorrowLend\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T08:15:21.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ItemController.cs",
+              "DocumentMoniker": "D:\\My Work\\BorrowLend\\BorrowLend\\Controllers\\ItemController.cs",
+              "RelativeDocumentMoniker": "BorrowLend\\Controllers\\ItemController.cs",
+              "ToolTip": "D:\\My Work\\BorrowLend\\BorrowLend\\Controllers\\ItemController.cs",
+              "RelativeToolTip": "BorrowLend\\Controllers\\ItemController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAswC4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T08:50:01.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Work\\BorrowLend\\BorrowLend\\Program.cs",
+              "RelativeDocumentMoniker": "BorrowLend\\Program.cs",
+              "ToolTip": "D:\\My Work\\BorrowLend\\BorrowLend\\Program.cs",
+              "RelativeToolTip": "BorrowLend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T08:17:55.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\My Work\\BorrowLend\\BorrowLend\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "BorrowLend\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\My Work\\BorrowLend\\BorrowLend\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "BorrowLend\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T08:38:21.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20241025084030_first.cs",
+              "DocumentMoniker": "D:\\My Work\\BorrowLend\\BorrowLend\\Migrations\\20241025084030_first.cs",
+              "RelativeDocumentMoniker": "BorrowLend\\Migrations\\20241025084030_first.cs",
+              "ToolTip": "D:\\My Work\\BorrowLend\\BorrowLend\\Migrations\\20241025084030_first.cs",
+              "RelativeToolTip": "BorrowLend\\Migrations\\20241025084030_first.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T08:40:30.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\My Work\\BorrowLend\\BorrowLend\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BorrowLend\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\My Work\\BorrowLend\\BorrowLend\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BorrowLend\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T09:02:10.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\My Work\\BorrowLend\\BorrowLend\\appsettings.json",
+              "RelativeDocumentMoniker": "BorrowLend\\appsettings.json",
+              "ToolTip": "D:\\My Work\\BorrowLend\\BorrowLend\\appsettings.json",
+              "RelativeToolTip": "BorrowLend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-25T08:06:55.859Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
