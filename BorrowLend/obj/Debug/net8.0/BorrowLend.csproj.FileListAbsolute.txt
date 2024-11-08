@@ -140,3 +140,4 @@ D:\My Work\BorrowLend\BorrowLend\obj\Debug\net8.0\refint\BorrowLend.dll
 D:\My Work\BorrowLend\BorrowLend\obj\Debug\net8.0\BorrowLend.pdb
 D:\My Work\BorrowLend\BorrowLend\obj\Debug\net8.0\BorrowLend.genruntimeconfig.cache
 D:\My Work\BorrowLend\BorrowLend\obj\Debug\net8.0\ref\BorrowLend.dll
+D:\My Work\BorrowLend\BorrowLend\obj\Debug\net8.0\BorrowLend.sourcelink.json

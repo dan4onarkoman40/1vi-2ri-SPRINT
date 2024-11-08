@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BorrowLend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b57a8f21be7c1b7e3090ccef97806613014c5ce6")]
 [assembly: System.Reflection.AssemblyProductAttribute("BorrowLend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BorrowLend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

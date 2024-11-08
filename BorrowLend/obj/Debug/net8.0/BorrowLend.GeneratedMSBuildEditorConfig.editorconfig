@@ -34,12 +34,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbVxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/My Work/BorrowLend/BorrowLend/Views/Item/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbVxFZGl0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
 [D:/My Work/BorrowLend/BorrowLend/Views/Item/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/My Work/BorrowLend/BorrowLend/Views/Item/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbVxVcGRhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/My Work/BorrowLend/BorrowLend/Views/Shared/Error.cshtml]
